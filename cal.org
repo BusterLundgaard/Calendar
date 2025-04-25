@@ -1,5 +1,4 @@
 * 2025
-just a test
 ** 1 January': Week 2 -- 6
 *** 1 Wen
 *** 2 Thur
@@ -128,17 +127,24 @@ SCHEDULED: <2025-04-25 Fri>
 **** Meeting w/ Jordan and Havananda
 <2025-04-25 Fri 19:00>
 *** 26 Sat
+**** TODO Book billetter til Odense
 *** 27 Sun
 *** 28 Mon - Week 18
+**** TODO: Afbestil tid til læge d. 11 Juli
 *** 29 Tue
+**** 13:30:: Læge
+**** 18:00:: Spis streetfood og se film med Asmund. Konkret tid ikke aftalt endnu 
 *** 30 Wen
+**** 17:00:: Fællespisning ved UKH
 
 ** 5 May: Week 19 -- 23
 *** 1 Thur
+**** TODO Kandidatkontrakt!
+DEADLINE: <2025-05-01 Thur 12:00>
 *** 2 Fri
 *** 3 Sat
-**** Mads' Filmfestival I Odense
-<2025-05-03 Sat>
+**** Filmfestival I Odense
+<2025-05-03 Sat>-<2025-05-04 Sun>
 *** 4 Sun
 *** 5 Mon - Week 19
 *** 6 Tue
@@ -184,6 +190,7 @@ SCHEDULED: <2025-04-25 Fri>
 *** 6 Fri
 *** 7 Sat
 *** 8 Sun
+**** Bachelor handin
 *** 9 Mon - Week 24
 *** 10 Tue
 *** 11 Wen
@@ -192,6 +199,7 @@ SCHEDULED: <2025-04-25 Fri>
 *** 14 Sat
 *** 15 Sun
 *** 16 Mon - Week 25
+**** Bachelor forsvar!
 *** 17 Tue
 *** 18 Wen
 *** 19 Thur
@@ -201,6 +209,9 @@ SCHEDULED: <2025-04-25 Fri>
 *** 23 Mon - Week 26
 *** 24 Tue
 *** 25 Wen
+**** Optimering eksamen
+Eks.lokale 5342-020 ADA
+<2025-06-25 Wen 9-17>
 *** 26 Thur
 *** 27 Fri
 *** 28 Sat
@@ -217,6 +228,8 @@ SCHEDULED: <2025-04-25 Fri>
 *** 7 Mon - Week 28
 *** 8 Tue
 *** 9 Wen
+**** Familie ferie
+<2025-07-09 Wen>--<2025-07-19 Sat>
 *** 10 Thur
 *** 11 Fri
 *** 12 Sat
@@ -227,6 +240,7 @@ SCHEDULED: <2025-04-25 Fri>
 *** 17 Thur
 *** 18 Fri
 *** 19 Sat
+**** Familie ferie slut
 *** 20 Sun
 *** 21 Mon - Week 30
 *** 22 Tue
