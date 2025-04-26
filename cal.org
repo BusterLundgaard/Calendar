@@ -11,7 +11,6 @@
 *** 9 Thur
 *** 10 Fri
 *** 11 Sat
-i am tired
 *** 12 Sun
 *** 13 Mon - Week 3
 *** 14 Tue
@@ -142,6 +141,8 @@ SCHEDULED: <2025-04-25 Fri>
 **** TODO Kandidatkontrakt!
 DEADLINE: <2025-05-01 Thur 12:00>
 *** 2 Fri
+**** Kandidat vejledning 
+SCHEDULED: <2025-05-02 Fri 10:40-10:50>
 *** 3 Sat
 **** Filmfestival I Odense
 <2025-05-03 Sat>-<2025-05-04 Sun>
