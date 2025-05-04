@@ -13,8 +13,6 @@
 *** 11 Sat
 *** 12 Sun
 *** 13 Mon - Week 3
-**** TODO Se på bachelor præsentation i HCIA gruppen
-**** TODO Køb togbilletter til og fra KBH
 *** 14 Tue
 *** 15 Wen
 *** 16 Thur
@@ -151,6 +149,8 @@ SCHEDULED: <2025-05-02 Fri 10:40-10:50>
 <2025-05-03 Sat>-<2025-05-04 Sun>
 *** 4 Sun
 *** 5 Mon - Week 19
+**** TODO Se på bachelor præsentation i HCIA gruppen
+**** TODO Køb togbilletter til og fra KBH
 *** 6 Tue
 *** 7 Wen
 *** 8 Thur
