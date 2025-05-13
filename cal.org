@@ -20,6 +20,7 @@
 *** 18 Sat
 *** 19 Sun
 *** 20 Mon - Week 4
+
 *** 21 Tue
 *** 22 Wen
 *** 23 Thur
@@ -153,11 +154,16 @@ SCHEDULED: <2025-05-02 Fri 10:40-10:50>
 **** TODO Køb togbilletter til og fra KBH
 *** 6 Tue
 *** 7 Wen
+**** TODO køb DSB billet 
+**** TODO Se på læge kontaktoplysninger 
 *** 8 Thur
 *** 9 Fri
 *** 10 Sat
+Køb DSB billet hjem
+unsubscribe fra Nintendo
 *** 11 Sun
 *** 12 Mon - Week 20
+Gospel event
 *** 13 Tue
 *** 14 Wen
 *** 15 Thur
@@ -179,6 +185,7 @@ SCHEDULED: <2025-05-02 Fri 10:40-10:50>
 <2025-05-24 Sat>
 *** 25 Sun
 *** 26 Mon - Week 22
+Gospel på Salling rooftop måske?
 *** 27 Tue
 *** 28 Wen
 *** 29 Thur
