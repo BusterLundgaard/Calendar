@@ -256,6 +256,7 @@ Eks.lokale 5342-020 ADA
 *** 21 Mon - Week 30
 *** 22 Tue
 *** 23 Wen
+Luna Tyskland trip 1
 *** 24 Thur
 *** 25 Fri
 *** 26 Sat
@@ -263,6 +264,7 @@ Eks.lokale 5342-020 ADA
 *** 28 Mon - Week 31
 *** 29 Tue
 *** 30 Wen
+Luna Tyskland trip 2
 *** 31 Thur
 
 ** 8 August: Week 32 -- 36
