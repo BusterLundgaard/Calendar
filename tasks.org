@@ -1,0 +1,19 @@
+* Small but frustrating:
+** TODO Ret forskudsopgørelse
+
+* Work:
+** TODO Arbejd 8 timer denne uge 
+** TODO Få set Metropolis
+** TODO Få lavet præsentationen til Scifi workshop
+
+* Personal:
+** TODO Køb taske til Luna
+** TODO Få image preview til også at virke med org mode filer
+** TODO Lav en android app til task management:
+			- Skal kunne automatiske synce til og fra git
+			- Skal kunne vise weekly tasks på din tlf lock screen
+			- Du vil normalt bruge orgro til at se og redigere i den
+			- Selve appen indeholder et calendar-like interface som i google calendar hvor du kan tilføje tasks og begivenheder
+** TODO Test med billeder:
+
+![render local images](sky.jpg)
