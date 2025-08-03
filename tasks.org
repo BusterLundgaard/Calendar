@@ -1,6 +1,7 @@
 * Small but frustrating:
 ** TODO Ret forskudsopgørelse
 
+** TODO Få solgt switch spillene og DS osv
 * Work:
 ** TODO Arbejd 8 timer denne uge 
 ** TODO Få set Metropolis
