@@ -1,5 +1,6 @@
 * Small but frustrating:
 ** TODO Ret forskudsopgørelse
+** TODO Betal At kasse
 
 ** TODO Få solgt switch spillene og DS osv
 * Work:
